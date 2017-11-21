@@ -5,6 +5,7 @@
 .container{}
 .logo {
     background: #273d49;
+	position: relative;
 }
 
 body header form {
@@ -34,6 +35,7 @@ body {
     background: gray url(../images/a.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+	height: 1280px;
 }
 .container {
     position: absolute;
